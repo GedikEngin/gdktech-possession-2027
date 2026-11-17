@@ -1,0 +1,35 @@
+{
+ "game": "MINI",
+ "n_video_frames": 700,
+ "fps": 25.0,
+ "pitch": [
+  105.3,
+  68.0
+ ],
+ "halves": [
+  [
+   1,
+   40,
+   339
+  ],
+  [
+   2,
+   390,
+   689
+  ]
+ ],
+ "kickoffs": {
+  "1": 40,
+  "2": 420
+ },
+ "forced_dead": [
+  [
+   390,
+   419
+  ]
+ ],
+ "home_name": "Barcelona",
+ "sources": [
+  "tactical"
+ ]
+}

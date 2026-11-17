@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+out/
+# the match data is not redistributable and must never enter this repository (RULES.md)
+data/
+*.mp4
+*.pl3container
+*_atd.txt
+*_atd.xml
+*_homography.csv
+*_smart_tagging.xml
+!tests/fixtures/challenge_mini/*
